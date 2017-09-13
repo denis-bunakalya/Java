@@ -1,0 +1,7 @@
+package ru.nsu.fit.g13202.bunakalya.task4.threadpool;
+
+public interface InterfaceThreadPoolSubscriber {
+
+	public void notifyQueueSizeChanged(int newQueueSize);
+	
+}

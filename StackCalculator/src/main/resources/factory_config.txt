@@ -1,0 +1,9 @@
+PUSH	ru.nsu.fit.g13202.task2.commands.Push
+POP	ru.nsu.fit.g13202.task2.commands.Pop
++	ru.nsu.fit.g13202.task2.commands.Plus
+-	ru.nsu.fit.g13202.task2.commands.Minus
+*	ru.nsu.fit.g13202.task2.commands.Multiply
+/	ru.nsu.fit.g13202.task2.commands.Devide
+SQRT	ru.nsu.fit.g13202.task2.commands.Sqrt
+PRINT	ru.nsu.fit.g13202.task2.commands.Print
+DEFINE	ru.nsu.fit.g13202.task2.commands.Define
